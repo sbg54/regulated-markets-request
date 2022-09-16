@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_transform">
+    <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
+        <acl_failure_result/>
+        <api_name>x_snc_regulated_0.Catalog item from RITM</api_name>
+        <description>Created to fetch the catalog item a particular RITM is carrying.</description>
+        <mutates_server_data>false</mutates_server_data>
+        <name>Catalog item from RITM</name>
+        <output_schema/>
+        <private>false</private>
+        <props>[&#13;
+  {&#13;
+    "name": "ritmbroker",&#13;
+    "label": "RITM broker",&#13;
+    "fieldType": "json",&#13;
+    "valueType": "object",&#13;
+    "readOnly": false,&#13;
+    "mandatory": true,&#13;
+    "description": "Graphql Query Output"&#13;
+  }&#13;
+]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <script><![CDATA[function transform(input) {
+	return input.ritmbroker.cat_item.value;
+}]]></script>
+        <sys_class_name>sys_ux_data_broker_transform</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-13 16:10:49</sys_created_on>
+        <sys_id>829fa8e316bd9d50da11c9b3cdf86128</sys_id>
+        <sys_name>Catalog item from RITM</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_ux_data_broker_transform_829fa8e316bd9d50da11c9b3cdf86128</sys_update_name>
+    </sys_ux_data_broker_transform>
+    <sys_translated_text action="delete_multiple" query="documentkey=829fa8e316bd9d50da11c9b3cdf86128"/>
+</record_update>

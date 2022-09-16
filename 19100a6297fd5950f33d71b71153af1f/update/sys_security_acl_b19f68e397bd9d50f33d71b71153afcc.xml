@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Used to restrict access to the custom portal pages</description>
+        <name>now.regulated-markets-access.*</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-13 16:10:48</sys_created_on>
+        <sys_id>b19f68e397bd9d50f33d71b71153afcc</sys_id>
+        <sys_name>now.regulated-markets-access.*</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_security_acl_b19f68e397bd9d50f33d71b71153afcc</sys_update_name>
+        <type display_value="ux_route">b9eb8a1b873303002941b53046cb1234</type>
+    </sys_security_acl>
+</record_update>

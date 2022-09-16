@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_regulated_0_regulated_markets">x_snc_regulated_0_regulated_markets</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>REG</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-10 19:29:59</sys_created_on>
+        <sys_id>366042a297fd5950f33d71b71153af5d</sys_id>
+        <sys_name>REG</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_number_366042a297fd5950f33d71b71153af5d</sys_update_name>
+    </sys_number>
+</record_update>

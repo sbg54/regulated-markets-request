@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="7a6042a297fd5950f33d71b71153af41" extends="task" label="Regulated Markets" max_length="40" name="x_snc_regulated_0_regulated_markets" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="https://surf.service-now.com/nav_to.do?uri=%2Fkb_view.do%3Fsysparm_article%3DKB0047748" label="Instructions" max_length="1024" name="instructions" type="url"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Regulated markets" mandatory="true" max_length="40" name="regulated_markets" type="string">
+            <choice>
+                <element inactive_on_update="false" label="GCC FedRAMP" sequence="0" value="gcc_fedramp"/>
+                <element inactive_on_update="false" label="NSC" sequence="1" value="nsc"/>
+                <element inactive_on_update="false" label="Protected Platform (AUS)" sequence="2" value="protected_platform_aus"/>
+                <element inactive_on_update="false" label="Protected Platform (EU)" sequence="3" value="protected_platform_eu"/>
+            </choice>
+        </element>
+    </element>
+</database>

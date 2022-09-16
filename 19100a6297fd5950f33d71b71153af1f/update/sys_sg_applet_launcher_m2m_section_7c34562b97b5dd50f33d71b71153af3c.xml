@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher/>
+        <order>100</order>
+        <section display_value="Ticket">b034562b97b5dd50f33d71b71153af3c</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 23:30:20</sys_created_on>
+        <sys_id>7c34562b97b5dd50f33d71b71153af3c</sys_id>
+        <sys_name/>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_7c34562b97b5dd50f33d71b71153af3c</sys_update_name>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

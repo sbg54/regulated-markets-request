@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">069fa8e356bd9d50a946b26fafefa52b</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-13 16:10:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e9fa8e328bd9d50289e83443c072a2b</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>m2m_app_config_theme_0e9fa8e328bd9d50289e83443c072a2b</sys_update_name>
+        <theme display_value="Light Theme">869fa8e35dbd9d508e4744269e7a072b</theme>
+        <ux_app_configuration display_value="Regulated Markets access Config">399f68e397bd9d50f33d71b71153afcb</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

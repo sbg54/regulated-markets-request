@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for Regulated Markets Access</description>
+        <genius_result_assembly/>
+        <label>Regulated Markets Access Search Profile</label>
+        <name>x_snc_regulated_0_srhec_search_profile</name>
+        <publish_id>a5982de4-3f4b-401f-8702-cc1c5a5a733c</publish_id>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-10 20:11:38</sys_created_on>
+        <sys_id>b0f946ee0efd59504fe17d10af2ae808</sys_id>
+        <sys_name>Regulated Markets Access Search Profile</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>ais_search_profile_b0f946ee0efd59504fe17d10af2ae808</sys_update_name>
+    </ais_search_profile>
+</record_update>

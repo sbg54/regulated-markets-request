@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition/>
+        <da_relay_models/>
+        <data/>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings/>
+        <layout>{&#13;
+  "default": {&#13;
+    "children": null,&#13;
+    "items": [&#13;
+      {&#13;
+        "slotName": "Main",&#13;
+        "rules": {&#13;
+          "grid-area": "main"&#13;
+        },&#13;
+        "styles": {&#13;
+          "display": "flex",&#13;
+          "flex-direction": "column"&#13;
+        }&#13;
+      },&#13;
+      {&#13;
+        "slotName": "Sidebar",&#13;
+        "rules": {&#13;
+          "grid-area": "sidebar"&#13;
+        },&#13;
+        "styles": {}&#13;
+      }&#13;
+    ],&#13;
+    "root": null,&#13;
+    "rules": {&#13;
+      "grid-template-rows": "auto",&#13;
+      "grid-template-columns": "2fr 1fr",&#13;
+      "grid-template-areas": "\"main sidebar\"",&#13;
+      "grid-gap": "0px 2rem",&#13;
+      "max-width": "90rem"&#13;
+    },&#13;
+    "styles": {&#13;
+      "margin": "2rem auto 4rem auto"&#13;
+    },&#13;
+    "type": "grid"&#13;
+  }&#13;
+}</layout>
+        <macroponent_dependencies/>
+        <name>Fixed Width Two-One</name>
+        <output_prop_mapping/>
+        <props/>
+        <required_translations>[]</required_translations>
+        <root_component/>
+        <root_component_config/>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties/>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-13 16:10:48</sys_created_on>
+        <sys_id>0e9fa8e35dbd9d5038d464095a0e5c27</sys_id>
+        <sys_name>Fixed Width Two-One</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_ux_macroponent_0e9fa8e35dbd9d5038d464095a0e5c27</sys_update_name>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=0e9fa8e35dbd9d5038d464095a0e5c27"/>
+</record_update>

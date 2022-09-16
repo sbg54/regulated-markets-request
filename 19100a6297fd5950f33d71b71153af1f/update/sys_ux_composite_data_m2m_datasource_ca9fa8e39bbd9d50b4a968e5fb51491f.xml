@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">0e9fa8e31abd9d504fa9186b3e3ef820</dataset>
+        <datasource display_value="Custom Portal Landing - My Tasks Datasource (Task table)">829fa8e3b8bd9d500514fbe9f3604320</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-13 16:10:50</sys_created_on>
+        <sys_id>ca9fa8e39bbd9d50b4a968e5fb51491f</sys_id>
+        <sys_name/>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_ca9fa8e39bbd9d50b4a968e5fb51491f</sys_update_name>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

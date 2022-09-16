@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition table="x_snc_regulated_0_regulated_markets">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </condition>
+        <group/>
+        <name>Regulated Markets Access - x_snc_regulated_0_regul</name>
+        <roles/>
+        <source_table>x_snc_regulated_0_regulated_markets</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-10 20:11:42</sys_created_on>
+        <sys_id>fdf986ee97fd5950f33d71b71153af93</sys_id>
+        <sys_name>Regulated Markets Access - x_snc_regulated_0_regul</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_search_source_fdf986ee97fd5950f33d71b71153af93</sys_update_name>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=fdf986ee97fd5950f33d71b71153af93"/>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit</name>
+        <parameter_screen/>
+        <query_condition table="x_snc_regulated_0_regulated_markets">sys_idSTARTSWITH{{sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 23:30:21</sys_created_on>
+        <sys_id>0d34962b97b5dd50f33d71b71153af9a</sys_id>
+        <sys_name>Edit</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_0d34962b97b5dd50f33d71b71153af9a</sys_update_name>
+        <table>x_snc_regulated_0_regulated_markets</table>
+        <template>priority={{My Regulated Markets requests priority}}^state={{My Regulated Markets requests state}}^short_description={{My Regulated Markets requests short_description}}^description={{My Regulated Markets requests description}}^assigned_to={{My Regulated Markets requests assigned_to}}^assignment_group={{My Regulated Markets requests assignment_group}}^company={{My Regulated Markets requests company}}^location={{My Regulated Markets requests location}}^cmdb_ci={{My Regulated Markets requests cmdb_ci}}^business_service={{My Regulated Markets requests business_service}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=0d34962b97b5dd50f33d71b71153af9a"/>
+</record_update>

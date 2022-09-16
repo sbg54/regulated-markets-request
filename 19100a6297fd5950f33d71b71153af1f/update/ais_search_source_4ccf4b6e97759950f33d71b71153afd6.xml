@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source">
+    <ais_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <datasource display_value="">x_snc_regulated_0_regulated_markets_task</datasource>
+        <name>Regulated Markets task</name>
+        <sys_class_name>ais_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-11 01:16:36</sys_created_on>
+        <sys_id>4ccf4b6e97759950f33d71b71153afd6</sys_id>
+        <sys_name>Regulated Markets task</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>ais_search_source_4ccf4b6e97759950f33d71b71153afd6</sys_update_name>
+    </ais_search_source>
+</record_update>

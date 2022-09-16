@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="DELETE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <page_registry display_value="">52bfc76ed875995004406e16c2beaa3f</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-11 01:16:29</sys_created_on>
+        <sys_id>9abfc76eb5759950dc14788f5deec53c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_9abfc76eb5759950dc14788f5deec53c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-11 01:16:29</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</application>
+        <file_path/>
+        <instance_id>35f485f9dbedd59849eac59705961964</instance_id>
+        <instance_name>sgoldtokyodemo</instance_name>
+        <name>sys_ux_registry_m2m_category_9abfc76eb5759950dc14788f5deec53c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category"><sys_ux_registry_m2m_category action="INSERT_OR_UPDATE"><experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category><page_registry display_value="">52bfc76ed875995004406e16c2beaa3f</page_registry><sys_class_name>sys_ux_registry_m2m_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-11 01:16:29</sys_created_on><sys_id>9abfc76eb5759950dc14788f5deec53c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package><sys_policy/><sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope><sys_update_name>sys_ux_registry_m2m_category_9abfc76eb5759950dc14788f5deec53c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-11 01:16:29</sys_updated_on></sys_ux_registry_m2m_category></record_update>]]></payload>
+        <payload_hash>-476868197</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>55751531c32111103e251d4ce001311b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-08-26 22:11:08</sys_created_on>
+        <sys_id>e59b5f8897ce1110f33d71b71153af43</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>182dc3578600000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application Category M2M</type>
+        <update_guid>a59b5f88fbce1110acfee3f6bd56ec43</update_guid>
+        <update_guid_history>a59b5f88fbce1110acfee3f6bd56ec43:-476868197</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 17:59:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_registry_m2m_category">sys_ux_registry_m2m_category</sys_db_object>
+        <sys_id>074ec702733447eebda37b4217968f64</sys_id>
+        <sys_metadata>9abfc76eb5759950dc14788f5deec53c</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_scope_delete display_value="">02d20da856d142e488cc0bad7d666704</sys_scope_delete>
+        <sys_update_name>sys_ux_registry_m2m_category_9abfc76eb5759950dc14788f5deec53c</sys_update_name>
+        <sys_update_version display_value="sys_ux_registry_m2m_category_9abfc76eb5759950dc14788f5deec53c">e59b5f8897ce1110f33d71b71153af43</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

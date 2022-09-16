@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Regulated Markets access request">088cc6e297319950f33d71b71153af3c</catalog_item>
+        <catalog_variable>IO:2b1d862697319950f33d71b71153af67</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-10 20:28:33</sys_created_on>
+        <sys_id>a0ddc66697319950f33d71b71153afb0</sys_id>
+        <sys_name>opened_by</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_a0ddc66697319950f33d71b71153afb0</sys_update_name>
+        <table/>
+        <ui_policy display_value="Regulated Markets access request UI Policy">1aad066697319950f33d71b71153afd1</ui_policy>
+        <variable>opened_by</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

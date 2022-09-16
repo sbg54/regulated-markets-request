@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6e9f77a297b99950f33d71b71153af76" extends="task" label="Regulated Markets request task" max_length="40" name="x_snc_regulated_0_regulated_markets_request_task" type="collection"/>
+</database>

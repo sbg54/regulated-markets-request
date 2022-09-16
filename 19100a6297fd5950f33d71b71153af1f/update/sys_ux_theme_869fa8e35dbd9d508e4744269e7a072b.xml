@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme">
+    <sys_ux_theme action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Light Theme</name>
+        <parent display_value="Default">a309795273230010fd843c78caf6a724</parent>
+        <sys_class_name>sys_ux_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-13 16:10:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>869fa8e35dbd9d508e4744269e7a072b</sys_id>
+        <sys_name>Light Theme</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_ux_theme_869fa8e35dbd9d508e4744269e7a072b</sys_update_name>
+        <theme>{&#13;
+    "canvas-nav-item--main-nav-navigation--selected--box-shadow": "var(--now-color--primary-3)",&#13;
+    "canvas-menu--background-color": "var(--now-color--primary-0)",&#13;
+    "--now-button--border-radius": "4px",&#13;
+    "--now-color--primary-0": "227, 235, 237",&#13;
+	"--now-color--primary-1": "71, 123, 138",&#13;
+	"--now-color--primary-2": "53, 92, 104",&#13;
+	"--now-color--primary-3": "36, 62, 69",&#13;
+    "--now-button--border-width": "0",&#13;
+	"--now-card--border-radius": "4px"&#13;
+}</theme>
+    </sys_ux_theme>
+</record_update>

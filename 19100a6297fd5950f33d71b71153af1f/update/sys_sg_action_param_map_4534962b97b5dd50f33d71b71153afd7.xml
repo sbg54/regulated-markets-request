@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (My Regulated Markets requests)">0934962b97b5dd50f33d71b71153afa5</button>
+        <item_parameter display_value="My Regulated Markets requests assignment_group">0934962b97b5dd50f33d71b71153afa0</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 23:30:21</sys_created_on>
+        <sys_id>4534962b97b5dd50f33d71b71153afd7</sys_id>
+        <sys_name>0934962b97b5dd50f33d71b71153afa0</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_4534962b97b5dd50f33d71b71153afd7</sys_update_name>
+        <ui_parameter display_value="Assignment group">4134962b97b5dd50f33d71b71153afd1</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>GLIDE_FORM_1_SET_MANDATORY_RELAY_4e9fa8e3f1bd9d50df9f2210754bd610</event_name>
+        <interfaces/>
+        <label>Glide Form 1 SET_MANDATORY Relay (Tasks Default)</label>
+        <props>[{"name":"fieldName","fieldType":"string","label":"Field Name"},{"name":"mandatory","fieldType":"boolean","label":"Mandatory"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-13 16:10:49</sys_created_on>
+        <sys_id>069fa8e314bd9d50cbd4e021f940ee10</sys_id>
+        <sys_name>Glide Form 1 SET_MANDATORY Relay (Tasks Default)</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_ux_event_069fa8e314bd9d50cbd4e021f940ee10</sys_update_name>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=069fa8e314bd9d50cbd4e021f940ee10"/>
+</record_update>

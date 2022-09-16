@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="My Approvals Data Item">cc34522b97b5dd50f33d71b71153aff4</data_item>
+        <interleaved_field/>
+        <name>5834922b97b5dd50f33d71b71153af7f Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 23:30:18</sys_created_on>
+        <sys_id>1434922b97b5dd50f33d71b71153af84</sys_id>
+        <sys_name>5834922b97b5dd50f33d71b71153af7f Item Stream</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_sg_item_stream_1434922b97b5dd50f33d71b71153af84</sys_update_name>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

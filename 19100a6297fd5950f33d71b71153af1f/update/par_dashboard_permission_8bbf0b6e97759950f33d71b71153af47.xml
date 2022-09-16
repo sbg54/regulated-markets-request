@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Regulated Markets Workspace">5abfc76ed77599508a575fc9616ed837</dashboard>
+        <group/>
+        <role display_value="x_snc_regulated_0.admin" name="x_snc_regulated_0.admin">55100a6297fd5950f33d71b71153af26</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-11 01:16:31</sys_created_on>
+        <sys_id>8bbf0b6e97759950f33d71b71153af47</sys_id>
+        <sys_name>5abfc76ed77599508a575fc9616ed837</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>par_dashboard_permission_8bbf0b6e97759950f33d71b71153af47</sys_update_name>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

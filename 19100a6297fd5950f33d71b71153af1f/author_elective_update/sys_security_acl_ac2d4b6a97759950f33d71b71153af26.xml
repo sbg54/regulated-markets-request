@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_snc_regulated_0_regulated_markets_task</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-11 01:05:09</sys_created_on>
+        <sys_id>ac2d4b6a97759950f33d71b71153af26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_regulated_0_regulated_markets_task</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_security_acl_ac2d4b6a97759950f33d71b71153af26</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-11 01:05:09</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</application>
+        <file_path/>
+        <instance_id>35f485f9dbedd59849eac59705961964</instance_id>
+        <instance_name>sgoldtokyodemo</instance_name>
+        <name>sys_security_acl_ac2d4b6a97759950f33d71b71153af26</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_snc_regulated_0_regulated_markets_task</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-11 01:05:09</sys_created_on><sys_id>ac2d4b6a97759950f33d71b71153af26</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_regulated_0_regulated_markets_task</sys_name><sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package><sys_policy/><sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope><sys_update_name>sys_security_acl_ac2d4b6a97759950f33d71b71153af26</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-11 01:05:09</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>2030436298</payload_hash>
+        <record_name>x_snc_regulated_0_regulated_markets_task</record_name>
+        <reverted_from/>
+        <source>dd100a6297fd5950f33d71b71153af21</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-11 01:05:09</sys_created_on>
+        <sys_id>a02d4b6a97759950f33d71b71153af29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1832a1431300000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-11 01:05:09</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>a82d4b6a0a759950457703201c900e28</update_guid>
+        <update_guid_history>a82d4b6a0a759950457703201c900e28:2030436298</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-11 02:08:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>28c07063426c40268e742a65598c4751</sys_id>
+        <sys_metadata>ac2d4b6a97759950f33d71b71153af26</sys_metadata>
+        <sys_name>x_snc_regulated_0_regulated_markets_task</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_parent display_value="">bf1dc76a97759950f33d71b71153aff7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_scope_delete display_value="">02d20da856d142e488cc0bad7d666704</sys_scope_delete>
+        <sys_update_name>sys_security_acl_ac2d4b6a97759950f33d71b71153af26</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_ac2d4b6a97759950f33d71b71153af26">a02d4b6a97759950f33d71b71153af29</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

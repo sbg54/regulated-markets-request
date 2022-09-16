@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>ticket</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="My Regulated tasks Form Screen">b834162b97b5dd50f33d71b71153af8a</embedded_screen>
+        <item_view/>
+        <name>My Regulated tasks Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 23:30:20</sys_created_on>
+        <sys_id>f434162b97b5dd50f33d71b71153af8f</sys_id>
+        <sys_name>My Regulated tasks Form Screen Master Item</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_sg_master_item_f434162b97b5dd50f33d71b71153af8f</sys_update_name>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="My Regulated tasks List Screen View Config">6834d22b97b5dd50f33d71b71153af98</view_config>
+    </sys_sg_master_item>
+</record_update>

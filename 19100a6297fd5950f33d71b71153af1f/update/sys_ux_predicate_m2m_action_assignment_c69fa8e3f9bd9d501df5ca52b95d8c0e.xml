@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">c29fa8e34dbd9d50e775c37786b51f2b</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">469fa8e3fcbd9d5032a753dbc7ce5d11</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-13 16:10:48</sys_created_on>
+        <sys_id>c69fa8e3f9bd9d501df5ca52b95d8c0e</sys_id>
+        <sys_name/>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_c69fa8e3f9bd9d501df5ca52b95d8c0e</sys_update_name>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Regulated Markets task</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Regulated Markets task</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">12a805f5c32111103e251d4ce0013165</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-11 01:05:06</sys_created_on>
+        <sys_id>f31dc76a97759950f33d71b71153aff6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Regulated Markets task</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_wizard_answer_f31dc76a97759950f33d71b71153aff6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-11 01:05:06</sys_updated_on>
+        <table/>
+        <target_url>x_snc_regulated_0_regulated_markets_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</application>
+        <file_path/>
+        <instance_id>35f485f9dbedd59849eac59705961964</instance_id>
+        <instance_name>sgoldtokyodemo</instance_name>
+        <name>sys_wizard_answer_f31dc76a97759950f33d71b71153aff6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Regulated Markets task</answer><button_label/><dependent_value/><element/><name>Regulated Markets task</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">12a805f5c32111103e251d4ce0013165</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-11 01:05:06</sys_created_on><sys_id>f31dc76a97759950f33d71b71153aff6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Regulated Markets task</sys_name><sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package><sys_policy/><sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope><sys_update_name>sys_wizard_answer_f31dc76a97759950f33d71b71153aff6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-11 01:05:06</sys_updated_on><table/><target_url>x_snc_regulated_0_regulated_markets_task.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1915915512</payload_hash>
+        <record_name>Regulated Markets task</record_name>
+        <reverted_from/>
+        <source>55751531c32111103e251d4ce001311b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-08-26 22:11:08</sys_created_on>
+        <sys_id>88bb5bae97b59950f33d71b71153afc8</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>182dc3578600000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>48bb5bae3fb59950bc48bc673ab6a2c8</update_guid>
+        <update_guid_history>48bb5bae3fb59950bc48bc673ab6a2c8:-1915915512</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-11 02:08:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>de164cb1adfd44de9826ccd7deb92d21</sys_id>
+        <sys_metadata>f31dc76a97759950f33d71b71153aff6</sys_metadata>
+        <sys_name>Regulated Markets task</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_parent display_value="Task">12a805f5c32111103e251d4ce0013165</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_scope_delete display_value="">02d20da856d142e488cc0bad7d666704</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_f31dc76a97759950f33d71b71153aff6</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_f31dc76a97759950f33d71b71153aff6">88bb5bae97b59950f33d71b71153afc8</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

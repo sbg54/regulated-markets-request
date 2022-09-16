@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="Regulated Markets Access">3cf946ee65fd5950ddb1da6723ed8f0c</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-10 20:11:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>78f946eeadfd59507000decfd086cb0a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_ux_page_property_78f946eeadfd59507000decfd086cb0a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-10 20:11:45</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_snc_regulated_0.3cf946ee65fd5950ddb1da6723ed8f0c.root.globalSearchDataConfigId</unique_name>
+        <value>78f946eed8fd59502baf9619154c4507</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=78f946eeadfd59507000decfd086cb0a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</application>
+        <file_path/>
+        <instance_id>35f485f9dbedd59849eac59705961964</instance_id>
+        <instance_name>sgoldtokyodemo</instance_name>
+        <name>sys_ux_page_property_78f946eeadfd59507000decfd086cb0a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>globalSearchDataConfigId</name><page display_value="Regulated Markets Access">3cf946ee65fd5950ddb1da6723ed8f0c</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-10 20:11:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>78f946eeadfd59507000decfd086cb0a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>globalSearchDataConfigId</sys_name><sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package><sys_policy/><sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope><sys_update_name>sys_ux_page_property_78f946eeadfd59507000decfd086cb0a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-10 20:11:45</sys_updated_on><type>string</type><unique_name>x_snc_regulated_0.3cf946ee65fd5950ddb1da6723ed8f0c.root.globalSearchDataConfigId</unique_name><value>78f946eed8fd59502baf9619154c4507</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=78f946eeadfd59507000decfd086cb0a"/></record_update>]]></payload>
+        <payload_hash>-593379382</payload_hash>
+        <record_name>globalSearchDataConfigId</record_name>
+        <reverted_from/>
+        <source>dd100a6297fd5950f33d71b71153af21</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-10 20:11:45</sys_created_on>
+        <sys_id>6ef9c6ee97fd5950f33d71b71153afe9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183290791c10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-10 20:11:45</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>26f9c6eebefd59504fd60ba79d2848e9</update_guid>
+        <update_guid_history>26f9c6eebefd59504fd60ba79d2848e9:-593379382,22f9c6ee99fd5950c950a6195af8fae8:-1637108555</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-11 01:13:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0627ce98855e410093f5d9e17a88f840</sys_id>
+        <sys_metadata>78f946eeadfd59507000decfd086cb0a</sys_metadata>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_scope_delete display_value="">02d20da856d142e488cc0bad7d666704</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_78f946eeadfd59507000decfd086cb0a</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_78f946eeadfd59507000decfd086cb0a">6ef9c6ee97fd5950f33d71b71153afe9</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

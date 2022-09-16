@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="c534962b97b5dd50f33d71b71153af16 Item Stream">4134962b97b5dd50f33d71b71153af1a</item_stream>
+        <segment display_value="My Regulated Markets requests Item Stream Segment">4534962b97b5dd50f33d71b71153af19</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 23:30:21</sys_created_on>
+        <sys_id>8d34962b97b5dd50f33d71b71153af1a</sys_id>
+        <sys_name/>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_8d34962b97b5dd50f33d71b71153af1a</sys_update_name>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

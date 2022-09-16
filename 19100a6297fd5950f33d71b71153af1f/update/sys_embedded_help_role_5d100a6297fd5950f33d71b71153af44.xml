@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_regulated_0.user" name="x_snc_regulated_0.user">9d100a6297fd5950f33d71b71153af43</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-10 19:28:31</sys_created_on>
+        <sys_id>5d100a6297fd5950f33d71b71153af44</sys_id>
+        <sys_name>9d100a6297fd5950f33d71b71153af43</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5d100a6297fd5950f33d71b71153af44</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

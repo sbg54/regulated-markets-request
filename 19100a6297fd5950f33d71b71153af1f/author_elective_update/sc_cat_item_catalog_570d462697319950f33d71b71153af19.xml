@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Regulated Markets access request">088cc6e297319950f33d71b71153af3c</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-10 20:25:11</sys_created_on>
+        <sys_id>570d462697319950f33d71b71153af19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Regulated Markets access request</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_570d462697319950f33d71b71153af19</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-10 20:25:11</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</application>
+        <file_path/>
+        <instance_id>35f485f9dbedd59849eac59705961964</instance_id>
+        <instance_name>sgoldtokyodemo</instance_name>
+        <name>sc_cat_item_catalog_570d462697319950f33d71b71153af19</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Regulated Markets access request">088cc6e297319950f33d71b71153af3c</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-10 20:25:11</sys_created_on><sys_id>570d462697319950f33d71b71153af19</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Regulated Markets access request</sys_name><sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package><sys_policy/><sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope><sys_update_name>sc_cat_item_catalog_570d462697319950f33d71b71153af19</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-10 20:25:11</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1473064096</payload_hash>
+        <record_name>Service Catalog.Regulated Markets access request</record_name>
+        <reverted_from/>
+        <source>dd100a6297fd5950f33d71b71153af21</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-10 20:25:11</sys_created_on>
+        <sys_id>930d462697319950f33d71b71153af1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1832913ddbc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-10 20:25:11</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>d70d4626e6319950935390409ebdcb1b</update_guid>
+        <update_guid_history>d70d4626e6319950935390409ebdcb1b:1473064096</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Regulated Markets access request">737d8e2697319950f33d71b71153af8f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-10 20:27:07</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>75ada03ed4fe496a897920c9531f5051</sys_id>
+        <sys_metadata>570d462697319950f33d71b71153af19</sys_metadata>
+        <sys_name>Service Catalog.Regulated Markets access request</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_parent display_value="Regulated Markets access request">088cc6e297319950f33d71b71153af3c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_scope_delete display_value="">02d20da856d142e488cc0bad7d666704</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_570d462697319950f33d71b71153af19</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_570d462697319950f33d71b71153af19">930d462697319950f33d71b71153af1c</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

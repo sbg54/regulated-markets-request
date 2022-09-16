@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">469fa8e363bd9d50ef7e4ee2e142080c</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Landing Page">829fa8e3b5bd9d5075485cf1f1b8c524</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-13 16:10:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>8a9fa8e328bd9d50433e0e6708341f0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_update_name>sys_ux_page_property_8a9fa8e328bd9d50433e0e6708341f0e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-13 16:10:49</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_regulated_0.469fa8e363bd9d50ef7e4ee2e142080c.route.chrome_header.829fa8e3b5bd9d5075485cf1f1b8c524</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</application>
+        <file_path/>
+        <instance_id>35f485f9dbedd59849eac59705961964</instance_id>
+        <instance_name>sgoldtokyodemo</instance_name>
+        <name>sys_ux_page_property_8a9fa8e328bd9d50433e0e6708341f0e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">469fa8e363bd9d50ef7e4ee2e142080c</page><required_translations>[]</required_translations><route display_value="Landing Page">829fa8e3b5bd9d5075485cf1f1b8c524</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-09-13 16:10:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>8a9fa8e328bd9d50433e0e6708341f0e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package><sys_policy/><sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope><sys_update_name>sys_ux_page_property_8a9fa8e328bd9d50433e0e6708341f0e</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-09-13 16:10:49</sys_updated_on><type>json</type><unique_name>x_snc_regulated_0.469fa8e363bd9d50ef7e4ee2e142080c.route.chrome_header.829fa8e3b5bd9d5075485cf1f1b8c524</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1763047480</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>55751531c32111103e251d4ce001311b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-08-26 22:11:08</sys_created_on>
+        <sys_id>e23b1f8897ce1110f33d71b71153afbf</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>182dc3578600000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>a23b1f8894ce111035a7818e593435bf</update_guid>
+        <update_guid_history>a23b1f8894ce111035a7818e593435bf:-1763047480</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 17:57:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>3a870b962395471593e112b84cbdbff1</sys_id>
+        <sys_metadata>8a9fa8e328bd9d50433e0e6708341f0e</sys_metadata>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Regulated Markets access request" source="x_snc_regulated_0">19100a6297fd5950f33d71b71153af1f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Regulated Markets access request">19100a6297fd5950f33d71b71153af1f</sys_scope>
+        <sys_scope_delete display_value="">02d20da856d142e488cc0bad7d666704</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_8a9fa8e328bd9d50433e0e6708341f0e</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_8a9fa8e328bd9d50433e0e6708341f0e">e23b1f8897ce1110f33d71b71153afbf</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
